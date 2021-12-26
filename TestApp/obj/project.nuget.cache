@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y4kC/+UM/yRk/vt0y+keqoCudxfsEesQP39i4ZA9V2hMNCKusXzhwoHVKV8BZJgQmP4so8adDQ+pMsFVextjFw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\Library.API\\TestApp\\TestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\funto\\.nuget\\packages\\rabbitmq.client\\6.2.2\\rabbitmq.client.6.2.2.nupkg.sha512",
+    "C:\\Users\\funto\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\funto\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

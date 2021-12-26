@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\funto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\funto\\.nuget\\packages"
+    ]
+  }
+}

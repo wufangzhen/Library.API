@@ -1,0 +1,7 @@
+2021-10-17 22:52:58.7679|Library.API.Controllers.WebSocketsController|INFO|WebSocket connection established 
+2021-10-17 22:53:20.8761|Library.API.Controllers.WebSocketsController|INFO|Message received from  Client 
+2021-10-17 22:53:20.8761|Library.API.Controllers.WebSocketsController|INFO|Message sent to Client 
+2021-10-17 22:56:39.1855|Library.API.Controllers.WebSocketsController|INFO|Message received from  Client 
+2021-10-17 22:56:39.1922|Library.API.Controllers.WebSocketsController|INFO|Message sent to Client 
+2021-10-17 22:56:49.9365|Library.API.Controllers.WebSocketsController|INFO|Message received from  Client 
+2021-10-17 22:56:49.9384|Library.API.Controllers.WebSocketsController|INFO|Message sent to Client 

@@ -1,0 +1,16 @@
+D:\repos\Library.API\TestApp\bin\Debug\netcoreapp3.1\TestApp.exe
+D:\repos\Library.API\TestApp\bin\Debug\netcoreapp3.1\TestApp.deps.json
+D:\repos\Library.API\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.json
+D:\repos\Library.API\TestApp\bin\Debug\netcoreapp3.1\TestApp.runtimeconfig.dev.json
+D:\repos\Library.API\TestApp\bin\Debug\netcoreapp3.1\TestApp.dll
+D:\repos\Library.API\TestApp\bin\Debug\netcoreapp3.1\TestApp.pdb
+D:\repos\Library.API\TestApp\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\repos\Library.API\TestApp\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+D:\repos\Library.API\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.AssemblyReference.cache
+D:\repos\Library.API\TestApp\obj\Debug\netcoreapp3.1\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Library.API\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfoInputs.cache
+D:\repos\Library.API\TestApp\obj\Debug\netcoreapp3.1\TestApp.AssemblyInfo.cs
+D:\repos\Library.API\TestApp\obj\Debug\netcoreapp3.1\TestApp.csproj.CoreCompileInputs.cache
+D:\repos\Library.API\TestApp\obj\Debug\netcoreapp3.1\TestApp.dll
+D:\repos\Library.API\TestApp\obj\Debug\netcoreapp3.1\TestApp.pdb
+D:\repos\Library.API\TestApp\obj\Debug\netcoreapp3.1\TestApp.genruntimeconfig.cache
